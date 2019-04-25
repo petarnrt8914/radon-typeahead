@@ -1203,6 +1203,19 @@
     ]
   },
   {
+    "brand": "Opel",
+    "models": [
+      "Tigra",
+      "Corsa",
+      "Astra",
+      "Vectra",
+      "Omega",
+      "Insignia",
+      "Meriva",
+      "Zafira"
+    ]
+  },
+  {
     "brand": "Peugeot",
     "models": [
       "405",
